@@ -1,9 +1,9 @@
 # NewsApp
 The app is written in Java and built with Gradle on Android Studio. It fetchs data of the news from a local database. 
 
-- Minimum SDK is 21
+- Minimum SDK: 21
 
-"GRADLE DEPENDENCIES"
+## GRADLE DEPENDENCIES
 
 ```
 dependencies {
