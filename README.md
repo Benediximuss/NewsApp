@@ -3,6 +3,10 @@ The app is written in Java and built with Gradle on Android Studio. It gets data
 
 <table style="width:100%">
   <tr>
+    <th>Navigation</th>
+    <th>Detailed News View</th>
+  </tr>
+  <tr>
     <td><img src="media/nav.gif"/></td>
     <td><img src="media/details.gif"/></td>
   </tr>
