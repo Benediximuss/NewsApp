@@ -22,7 +22,7 @@ dependencies {
 <table style="width:100%">
   <tr>
     <th>Navigation</th>
-    <th>Detailed News View</th>
+    <th>Detailed View</th>
   </tr>
   <tr>
     <td><img src="media/nav.gif"/></td>
